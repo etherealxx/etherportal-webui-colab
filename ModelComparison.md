@@ -136,6 +136,137 @@ https://civitai.com/models/3076/stuffymix
 
 <img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/stuffymix%20seed%201.png" alt="" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/stuffymix%20seed%202.png" alt="" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/stuffymix%20seed%203.png" alt="" width="300"/>
 
+### Abyss Orange Mix 2
+
+https://huggingface.co/WarriorMama777/OrangeMixs
+
+<img src="modelexamples/abyssorangemix2hard%20seed%201.png" alt="" width="300"/><img src="modelexamples/abyssorangemix2hard%20seed%202.png" alt="" width="300"/><img src="modelexamples/abyssorangemix2hard%20seed%203.png" alt="" width="300"/>
+
+### 8528
+
+https://huggingface.co/ckpt/8528-diffusion
+
+<img src="modelexamples/8528%20seed%201.png" alt="" width="300"/><img src="modelexamples/8528%20seed%202.png" alt="" width="300"/><img src="modelexamples/8528%20seed%203.png" alt="" width="300"/>
+
+### Abyss Orange Mix 3
+
+https://huggingface.co/WarriorMama777/OrangeMixs
+
+<img src="modelexamples/abyssorangemix3%20seed%201.png" alt="" width="300"/><img src="modelexamples/abyssorangemix3%20seed%202.png" alt="" width="300"/><img src="modelexamples/abyssorangemix3%20seed%203.png" alt="" width="300"/>
+
+### Ambrosia Fusion
+
+https://huggingface.co/NiteStormz/ProtoThing_200
+
+<img src="modelexamples/ambrosiafusion%20seed%201.png" alt="" width="300"/><img src="modelexamples/ambrosiafusion%20seed%202.png" alt="" width="300"/><img src="modelexamples/ambrosiafusion%20seed%203.png" alt="" width="300"/>
+
+### AniMeth
+
+https://huggingface.co/Rasgeath/self_made_sauce
+
+<img src="modelexamples/animeth%20seed%201.png" alt="" width="300"/><img src="modelexamples/animeth%20seed%202.png" alt="" width="300"/><img src="modelexamples/animeth%20seed%203.png" alt="" width="300"/>
+
+### Anything v4
+
+https://huggingface.co/andite/anything-v4.0
+
+<img src="modelexamples/anythingv4%20seed%201.png" alt="" width="300"/><img src="modelexamples/anythingv4%20seed%202.png" alt="" width="300"/><img src="modelexamples/anythingv4%20seed%203.png" alt="" width="300"/>
+
+### Archon Instagram
+
+https://huggingface.co/misobarisic/playground
+
+<img src="modelexamples/archoninstagram%20seed%201.png" alt="" width="300"/><img src="modelexamples/archoninstagram%20seed%202.png" alt="" width="300"/><img src="modelexamples/archoninstagram%20seed%203.png" alt="" width="300"/>
+
+### Counterveit v2.2
+
+https://huggingface.co/gsdf/Counterfeit-V2.5
+
+<img src="modelexamples/counterveit%20v2.2%20seed%201.png" alt="" width="300"/><img src="modelexamples/counterveit%20v2.2%20seed%202.png" alt="" width="300"/><img src="modelexamples/counterveit%20v2.2%20seed%203.png" alt="" width="300"/>
+
+### Counterveit v2.5
+
+https://huggingface.co/gsdf/Counterfeit-V2.5
+
+<img src="modelexamples/counterveit%20v2.5%20seed%201.png" alt="" width="300"/><img src="modelexamples/counterveit%20v2.5%20seed%202.png" alt="" width="300"/><img src="modelexamples/counterveit%20v2.5%20seed%203.png" alt="" width="300"/>
+
+### HD-17
+
+https://huggingface.co/Deltaadams/HentaiDiffusion
+
+<img src="modelexamples/hd17%20seed%201.png" alt="" width="300"/><img src="modelexamples/hd17%20seed%202.png" alt="" width="300"/><img src="modelexamples/hd17%20seed%203.png" alt="" width="300"/>
+
+### HD Dream Gape
+
+https://huggingface.co/Horsebird/HDDream-G
+
+<img src="modelexamples/hddreamgape%20seed%201.png" alt="" width="300"/><img src="modelexamples/hddreamgape%20seed%202.png" alt="" width="300"/><img src="modelexamples/hddreamgape%20seed%203.png" alt="" width="300"/>
+
+### Momocha
+
+https://huggingface.co/NoCrypt/momocha-mix
+
+<img src="modelexamples/momocha%20seed%201.png" alt="" width="300"/><img src="modelexamples/momocha%20seed%202.png" alt="" width="300"/><img src="modelexamples/momocha%20seed%203.png" alt="" width="300"/>
+
+### Mozarella
+
+https://huggingface.co/Rasgeath/self_made_sauce
+
+<img src="modelexamples/mozarella%20seed%201.png" alt="" width="300"/><img src="modelexamples/mozarella%20seed%202.png" alt="" width="300"/><img src="modelexamples/mozarella%20seed%203.png" alt="" width="300"/>
+
+### Padoru Diffusion
+
+https://huggingface.co/misobarisic/playground
+
+<img src="modelexamples/padorudiffusion%20seed%201.png" alt="" width="300"/><img src="modelexamples/padorudiffusion%20seed%202.png" alt="" width="300"/><img src="modelexamples/padorudiffusion%20seed%203.png" alt="" width="300"/>
+
+### PastelMix
+
+https://huggingface.co/andite/pastel-mix
+
+<img src="modelexamples/pastelmix%20seed%201.png" alt="" width="300"/><img src="modelexamples/pastelmix%20seed%202.png" alt="" width="300"/><img src="modelexamples/pastelmix%20seed%203.png" alt="" width="300"/>
+
+### Protothing
+
+https://huggingface.co/NiteStormz/ProtoThing_200
+
+<img src="modelexamples/protothing%20seed%201.png" alt="" width="300"/><img src="modelexamples/protothing%20seed%202.png" alt="" width="300"/><img src="modelexamples/protothing%20seed%203.png" alt="" width="300"/>
+
+### Shirayuki
+
+https://huggingface.co/hesw23168/SD_Shirayuki_Model
+
+<img src="modelexamples/shirayuki%20seed%201.png" alt="" width="300"/><img src="modelexamples/shirayuki%20seed%202.png" alt="" width="300"/><img src="modelexamples/shirayuki%20seed%203.png" alt="" width="300"/>
+
+### NutMegMix
+
+https://huggingface.co/acheong08/nutmegmix
+
+<img src="modelexamples/nutmegmix%20seed%201.png" alt="" width="300"/><img src="modelexamples/nutmegmix%20seed%202.png" alt="" width="300"/><img src="modelexamples/nutmegmix%20seed%203.png" alt="" width="300"/>
+
+### Kani Anime
+
+https://huggingface.co/Rasgeath/self_made_sauce
+
+<img src="modelexamples/kanianime%20seed%201.png" alt="" width="300"/><img src="modelexamples/kanianime%20seed%202.png" alt="" width="300"/><img src="modelexamples/kanianime%20seed%203.png" alt="" width="300"/>
+
+### HentaiElysium
+
+https://huggingface.co/NUROISEA/anything-mix
+
+<img src="modelexamples/hentaielysium%20seed%201.png" alt="" width="300"/><img src="modelexamples/hentaielysium%20seed%202.png" alt="" width="300"/><img src="modelexamples/hentaielysium%20seed%203.png" alt="" width="300"/>
+
+### EverythingMix
+
+https://huggingface.co/DrBob2142/Everything
+
+<img src="modelexamples/everything%20seed%201.png" alt="" width="300"/><img src="modelexamples/everything%20seed%202.png" alt="" width="300"/><img src="modelexamples/everything%20seed%203.png" alt="" width="300"/>
+
+### Blossom Extract
+
+https://huggingface.co/NUROISEA/anything-mix
+
+<img src="modelexamples/blossomextract%20seed%201.png" alt="" width="300"/><img src="modelexamples/blossomextract%20seed%202.png" alt="" width="300"/><img src="modelexamples/blossomextract%20seed%203.png" alt="" width="300"/>
 
 ## Model Comparison (NSFW)
 #### Warning! The next page will contain several (censored) nsfw imagery. Must be 18+. Visit at your own risk.
